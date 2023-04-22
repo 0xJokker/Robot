@@ -1,8 +1,8 @@
 # Game Robot
 
-Este es un Juego de un Robot desarrollado con el lenguaje de programacion Python (Jupyter Notebook).
-Esta desarrollado para la interaccion - entrada del usuario en la cual modifica el nombre del Robot y su
-Color...
+** Robot realizado con el lenguaje de Programacion Python** 
+Juego desarrollado con Python, con funcionalidades de ataque entre dos robots. 
+Entrada de Usuario para la personalizacion de los robots y de mas funcionalidades agregadas....
 
 Para mas Informacion del Proyecto.... 
 IG - @e.sepulvedav / @jokerco.digital

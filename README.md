@@ -15,5 +15,5 @@ Joker.Co - Eduard Sepulveda
 ## License
 
 Licencia Apache 2.0 © [2023] [Eduard Sepulveda]
-**Todos los Derechos Reservados por Joker.Co © **
+**Todos los Derechos Reservados**
 

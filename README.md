@@ -8,7 +8,7 @@ Entrada de Usuario para la personalizacion de los robots y de mas funcionalidade
 
 ## Autor
 
-Joker.Co - Eduard Sepulveda
+Eduard Sepulveda
 [GitHub]  (https://github.com/JokerC0)
 
 
@@ -16,4 +16,11 @@ Joker.Co - Eduard Sepulveda
 
 Licencia Apache 2.0 © [2023] [Eduard Sepulveda]
 **Todos los Derechos Reservados**
+
+
+
+
+
+
+https://user-images.githubusercontent.com/129913584/234437582-c42133c2-21d1-44c8-b600-e284f1717872.mp4
 

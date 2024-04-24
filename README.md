@@ -12,11 +12,6 @@ Eduard Sepulveda
 [GitHub]  (https://github.com/JokerC0)
 
 
-## License
-
-Licencia Apache 2.0 © [2023] [Eduard Sepulveda]
-**Todos los Derechos Reservados**
-
 
 
 
